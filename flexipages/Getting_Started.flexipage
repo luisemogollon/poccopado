@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>richTextValue</name>
+                <value>&lt;strong&gt;&lt;span style=&quot;font-size:22px&quot;&gt;Getting Started with Financial Services Cloud&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style=&quot;font-size:18px&quot;&gt;Welcome to the Financial Services Cloud 30-Day Free Trial. Complete the following items before getting started:&lt;/span&gt;&lt;br /&gt;
+&amp;nbsp;
+&lt;p&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;strong&gt;Setting Up Your Trial&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://developer.salesforce.com/docs/atlas.en-us.financial_services_cloud_quick_start.meta/financial_services_cloud_quick_start/fsc_admin_register_custom_domain.htm&quot;&gt;Register a &amp;lsquo;My Domain&amp;rsquo; Subdomain&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;- Add a subdomain to your Salesforce org URL that&amp;nbsp;lets you highlight your brand and makes your org more secure. Financial Services Cloud leverages Lightning components to enhance users&amp;#39; productivity, and My Domain registration is required before you can use Lightning components. &lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;a href=&quot;https://developer.salesforce.com/docs/atlas.en-us.financial_services_cloud_quick_start.meta/financial_services_cloud_quick_start/fsc_admin_setup_run_wave_dataflow.htm&quot;&gt;&lt;strong&gt;Schedule Refreshes of Your Data in Einstein Analytics&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;-&amp;nbsp;Schedule and start the dataflow so that your data can be refreshed daily in Einstein Analytics for Financial Services Cloud.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;strong&gt;Launch the Wealth Management, Retail Banking or Retail Banking Console app&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+
+	&lt;ol&gt;
+		&lt;li&gt;
+		&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;​From the top left-hand corner of your page, click the &lt;strong&gt;App Launcher&lt;/strong&gt; icon under the Salesforce cloud.&lt;/span&gt;&lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;Click on the &lt;strong&gt;Wealth Management&lt;/strong&gt;, &lt;b&gt;Retail&amp;nbsp;Banking&lt;/b&gt; or &lt;b&gt;Retail Banking Console&lt;/b&gt;&amp;nbsp;app.&lt;/span&gt;&lt;span style=&quot;font-size:14px;&quot;&gt;&amp;nbsp;Remember to check out &lt;strong&gt;Rachel Adams&lt;/strong&gt;&amp;#39; profile using the Accounts tab or by searching in Global Search.&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-size:14px&quot;&gt;To return to these instructions, switch to the &lt;strong&gt;Welcome&lt;/strong&gt;&amp;nbsp;app.&lt;/span&gt;&lt;/p&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;strong&gt;Customizing Financial Services Cloud &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;a href=&quot;https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_quick_start.pdf&quot;&gt;&lt;strong&gt;Quick Start Guide&lt;/strong&gt;&lt;/a&gt; - Create a&amp;nbsp;User and set up your Einstein Analytics Dataflow. If you&amp;#39;ve completed the steps to Register a My Domain Subdomain and Schedule Refreshes of Your Data in Einstein Analytics, then skip the&amp;nbsp;sections in this guide.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;a href=&quot;https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_admin_guide.pdf&quot;&gt;&lt;strong&gt;Administrator Guide&lt;/strong&gt;&lt;/a&gt; - Learn about the Financial Services Cloud data model, customize the user experience, and tailor Financial Services Cloud to suit your business needs.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;p&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;a href=&quot;https://resources.docs.salesforce.com/sfdc/pdf/financial_services.pdf&quot;&gt;&lt;strong&gt;User Guide&lt;/strong&gt;&lt;/a&gt; - Learn how users can use Financial Services Cloud to increase productivity, drive collaboration&amp;nbsp;and transform leads into new individuals and opportunities.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</value>
+            </componentInstanceProperties>
+            <componentName>flexipage:richText</componentName>
+        </componentInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>Getting Started with Financial Services Cloud</masterLabel>
+    <template>
+        <name>flexipage:defaultAppHomeTemplate</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>
